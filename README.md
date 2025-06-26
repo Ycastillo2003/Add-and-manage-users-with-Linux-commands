@@ -22,4 +22,6 @@ In this scenario, a new employee with the username researcher9 joins an organiza
 
 - Adding  User(researcher 9) to the research_team using sudo -g command.
 
-- 
+![image](https://github.com/user-attachments/assets/ca3ee28f-69b0-4fba-8d1c-4c7b4521d12b)
+
+- Giving User(researcher 9) ownership project_R.txt located in /home/researcher2/projects with the chown command.
