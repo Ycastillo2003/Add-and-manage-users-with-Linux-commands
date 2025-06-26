@@ -25,3 +25,5 @@ In this scenario, a new employee with the username researcher9 joins an organiza
 ![image](https://github.com/user-attachments/assets/ca3ee28f-69b0-4fba-8d1c-4c7b4521d12b)
 
 - Giving User(researcher 9) ownership project_R.txt located in /home/researcher2/projects with the chown command.
+
+   A couple of months later, this employee's role at the organization has changed, and they are working in both the Research and the Sales departments.
