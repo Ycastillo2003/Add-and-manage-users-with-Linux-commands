@@ -40,7 +40,7 @@ In this scenario, a new employee with the username researcher9 joins an organiza
   
 ![image](https://github.com/user-attachments/assets/a1edf06e-0906-4b85-bcfb-25647e2d8387)
 
-Using sudo groupdel researcher9 to properly get rid of the user(researcher 9). After removing users, it is good practice to clean up any such empty groups that may remain behind.
+- Using sudo groupdel researcher9 to properly get rid of the user(researcher 9). After removing users, it is good practice to clean up any such empty groups that may remain behind.
 
    Thanks for making to the end of this lab.🎉
   
