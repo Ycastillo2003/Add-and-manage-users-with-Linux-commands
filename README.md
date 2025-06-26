@@ -12,3 +12,4 @@ This project focuses on managing user accounts and permissions in a Linux enviro
 - Linux.
 
 # Actions and observations
+In this scenario, a new employee with the username researcher9 joins an organization. We have to add them to the system and continue to manage their access during their time with the organization.
