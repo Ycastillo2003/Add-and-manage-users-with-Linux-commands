@@ -17,3 +17,9 @@ In this scenario, a new employee with the username researcher9 joins an organiza
 ![image](https://github.com/user-attachments/assets/129aa005-7f21-426c-992a-95825f5bcff1)
 
 - Adding User(researcher 9) using superuser do useradd.
+
+![image](https://github.com/user-attachments/assets/eee194e4-9ae9-4d8f-913d-283405b45979)
+
+- Adding  User(researcher 9) to the research_team using sudo -g command.
+
+- 
